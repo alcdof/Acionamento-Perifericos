@@ -1,2 +1,3 @@
 # Acionamento-Perifericos-
-Projeto de Acionamento de Periféricos, desenvolvido no processo Trainee da Pato a Jato.
+Este repositório contém o código do projeto de acionamento de periféricos, desenvolvido usando o Arduino Nano e um módulo relé 16 canais.
+***
